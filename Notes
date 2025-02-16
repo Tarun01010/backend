@@ -1,0 +1,6 @@
+/*
+NODEMON:
+          →Automatically Restart Node.js Applications
+          →nodemon is a tool that automatically restarts your Node.js application when it detects file changes.
+           This saves you from manually stopping and restarting the server every time you make a change.
+*/
